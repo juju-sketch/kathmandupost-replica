@@ -1,2 +1,2 @@
 # ktm-post-clone
-it is what it isss
+A replica for a Nepali news portal - The Kathmandu Post
